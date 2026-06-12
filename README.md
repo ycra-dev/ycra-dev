@@ -2,7 +2,7 @@
 <p align="center"><em>Creating value from data — 데이터에서 가치를 만드는 사람</em></p>
 
 <p align="center">
-  <a href="https://ycra.dev"><img src="https://img.shields.io/badge/Blog-ycra.dev-2563eb?style=flat-square&logo=rss&logoColor=white"></a>
+  <a href="https://ycra-dev.github.io"><img src="https://img.shields.io/badge/Blog-2563eb?style=flat-square&logo=rss&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/youngcheor-ra"><img src="https://img.shields.io/badge/LinkedIn-youngcheor--ra-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ycra.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ycra.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -44,6 +44,6 @@ Building a **multi-tenant, self-service data platform** that auto-provisions per
 - **Online Aggregation in Trino** — Trino KR Meetup #2, SKT Enterprise · Sep 2023
 
 ### 📫 Find me
-- 🌐 Blog — [ycra.dev](https://ycra.dev)
+- 🌐 Blog — [ycra-dev.github.io](https://ycra-dev.github.io)
 - 💼 LinkedIn — [in/youngcheor-ra](https://www.linkedin.com/in/youngcheor-ra)
 - 📧 Email — ycra.dev@gmail.com
